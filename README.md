@@ -11,7 +11,7 @@ The plan itself is in French.
 
 ![Gantt chart of the project](docs/gantt.png)
 
-Red tasks are on the critical path. Blue tasks have slack. The chart was generated from the data in the `.mpp` file.
+Red tasks are on the critical path, blue tasks have slack, and grey arrows show the dependencies. Each task shows its team, with the number of people when there is more than one. The chart was generated from the data in the `.mpp` file.
 
 ## 🗂️ Overview
 
